@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@google/genai": "^1.41.0",
+    "@stripe/stripe-js": "^2.4.0",
     "@supabase/supabase-js": "^2.95.3",
     "groq-sdk": "^0.37.0",
     "jspdf": "^2.5.1",
@@ -25,9 +26,8 @@
     "react-router-dom": "^7.13.0",
     "recharts": "^2.12.2",
     "sort-by": "^1.2.0",
-    "uuid": "^9.0.1",
-    "@stripe/stripe-js": "^2.4.0",
-    "stripe": "^14.10.0"
+    "stripe": "^14.10.0",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
